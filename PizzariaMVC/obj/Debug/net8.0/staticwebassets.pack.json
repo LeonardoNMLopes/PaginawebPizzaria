@@ -1,0 +1,297 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PizzariaMVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PizzariaMVC.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\css\\yeti.css",
+      "PackagePath": "staticwebassets\\css\\yeti.css"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\imagem\\4queijos.png.jpeg1a722b89-27d2-4cc6-9217-6a1752d80e1a.png693ae226-97d7-4102-9faf-fded8ab24395.png",
+      "PackagePath": "staticwebassets\\imagem\\4queijos.png.jpeg1a722b89-27d2-4cc6-9217-6a1752d80e1a.png693ae226-97d7-4102-9faf-fded8ab24395.png"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\imagem\\4queijos.png.jpeg1a722b89-27d2-4cc6-9217-6a1752d80e1a.pngf400afb8-7fe4-438e-84c6-95341396bbac.png",
+      "PackagePath": "staticwebassets\\imagem\\4queijos.png.jpeg1a722b89-27d2-4cc6-9217-6a1752d80e1a.pngf400afb8-7fe4-438e-84c6-95341396bbac.png"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\imagem\\4queijos.png.jpeg1a722b89-27d2-4cc6-9217-6a1752d80e1a.pngf8570382-1942-4057-8659-65d7a2ec8d01.png",
+      "PackagePath": "staticwebassets\\imagem\\4queijos.png.jpeg1a722b89-27d2-4cc6-9217-6a1752d80e1a.pngf8570382-1942-4057-8659-65d7a2ec8d01.png"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\imagem\\bacon.pngb69fcf3f-49ea-443d-b9bf-1fed0d9886f5.png",
+      "PackagePath": "staticwebassets\\imagem\\bacon.pngb69fcf3f-49ea-443d-b9bf-1fed0d9886f5.png"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\imagem\\bacon.pngd08e5481-dd4a-4913-97b8-40c51d303029.png",
+      "PackagePath": "staticwebassets\\imagem\\bacon.pngd08e5481-dd4a-4913-97b8-40c51d303029.png"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\imagem\\baiana.jpeg136785ce-c222-4404-a244-6933abd96052.png3008cc13-7a7c-45bf-9467-9430a7b10793.png",
+      "PackagePath": "staticwebassets\\imagem\\baiana.jpeg136785ce-c222-4404-a244-6933abd96052.png3008cc13-7a7c-45bf-9467-9430a7b10793.png"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\imagem\\frangocheddar.jpeg3b45dcf3-fee2-4c0b-9c75-50d58c3d3ae5.png5568150d-d2ac-43df-9580-99dc4bbb9f50.png",
+      "PackagePath": "staticwebassets\\imagem\\frangocheddar.jpeg3b45dcf3-fee2-4c0b-9c75-50d58c3d3ae5.png5568150d-d2ac-43df-9580-99dc4bbb9f50.png"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\leonu\\source\\repos\\PizzariaMVC\\PizzariaMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PizzariaMVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PizzariaMVC.props",
+      "PackagePath": "build\\PizzariaMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PizzariaMVC.props",
+      "PackagePath": "buildMultiTargeting\\PizzariaMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PizzariaMVC.props",
+      "PackagePath": "buildTransitive\\PizzariaMVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
